@@ -1,8 +1,8 @@
 # Candidate Submission Template
 
 ## Candidate Information
-- Full Name: Omer F
-- Email: omer@example.com
+- Full Name: Omer Faisal
+- Email: official.omerfaisal@gmail.com
 - LinkedIn or Portfolio: 
 - Submission Date: 2026-03-14
 
